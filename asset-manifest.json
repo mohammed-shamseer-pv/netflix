@@ -1,0 +1,13 @@
+{
+  "main.css": "/netflix/static/css/main.eb8975bb.chunk.css",
+  "main.js": "/netflix/static/js/main.6f676bb7.chunk.js",
+  "main.js.map": "/netflix/static/js/main.6f676bb7.chunk.js.map",
+  "static/js/1.d0752e94.chunk.js": "/netflix/static/js/1.d0752e94.chunk.js",
+  "static/js/1.d0752e94.chunk.js.map": "/netflix/static/js/1.d0752e94.chunk.js.map",
+  "runtime~main.js": "/netflix/static/js/runtime~main.d476b23b.js",
+  "runtime~main.js.map": "/netflix/static/js/runtime~main.d476b23b.js.map",
+  "static/css/main.eb8975bb.chunk.css.map": "/netflix/static/css/main.eb8975bb.chunk.css.map",
+  "index.html": "/netflix/index.html",
+  "precache-manifest.120fed10cc262d679eee281e9433f7b2.js": "/netflix/precache-manifest.120fed10cc262d679eee281e9433f7b2.js",
+  "service-worker.js": "/netflix/service-worker.js"
+}
